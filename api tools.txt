@@ -1,0 +1,8 @@
+
+use this to set a api for node in pc
+
+to install global access to the json-server
+npm install -g json-server
+
+to create a api file in json format
+json-server --watch db.json
